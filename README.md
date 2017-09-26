@@ -1,4 +1,4 @@
-# rddj-template
+# PGx-E
 
 *A template for bootstrapping reproducible RMarkdown documents for data journalistic purposes.*
 
